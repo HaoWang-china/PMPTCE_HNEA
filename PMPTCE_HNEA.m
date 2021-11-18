@@ -1,4 +1,4 @@
-function x = mashup_heterogeneous(network_files, ngene, nodenum1,ndim,lanmda,svd_approx)
+function x = PMPTCE_HNEA(network_files, ngene, nodenum1,ndim,lanmda,svd_approx)
 %network_files: The file path
 %ngene: Number of nodes entered in the network
 %nodenum1:Number of nodes in the first part of the network
