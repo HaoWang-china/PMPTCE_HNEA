@@ -11,3 +11,7 @@ aVSDxiangliangdata_0.3_300.arff is the dimension and weight required by the supp
 
 
 aVSDxiangliangdata_0.5_50.arff is the dimension and weight required by the random forest algorithm to achieve the optimal effect.
+
+
+
+path.txt is the name and number of 11 metabolic paths.

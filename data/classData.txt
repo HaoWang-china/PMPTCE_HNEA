@@ -1,4 +1,4 @@
-name	path
+name	        path
 CID000000005	 8,
 CID000000011	 11,
 CID000000016	 11,

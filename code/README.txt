@@ -21,3 +21,10 @@ rwr.m is used to calculate restart random walk.
 
 
 vector_embedding.m is used to calculate the output vector.
+
+
+num.csv in network is the number corresponding to enzyme and compound.
+
+
+the data.txt in the network is the data used when matlab extracts features.
+

@@ -1,0 +1,24 @@
+
+path name						num
+
+Carbohydrate metabolism					1
+
+Metabolism of terpenoids and polyketides			2
+
+Lipid metabolism						3
+
+Biosynthesis of other secondary metabolites		4
+
+Amino acid metabolism					5
+
+Xenobiotics biodegradation and metabolites			6
+
+Glycan biosynthesis and metabolism			7
+
+Metabolism of cofactors and vitamins			8
+
+Nucleotide metabolism					9
+
+Metabolism of other amino acids				10
+
+Energy metabolism					11
