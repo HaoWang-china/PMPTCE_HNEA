@@ -1,7 +1,7 @@
 A novel computational method, namely PMPTCE-HNEA, was proposed to predict metabolic pathway types of compounds and enzymes. To obtain informative features of compounds and enzymes, three heterogeneous networks containing above two objects were constructed and we generalized an existing network embedding algorithm, Mashup, to its heterogeneous network version. Such algorithm was termed as MashupH and applied on above three heterogeneous networks. The extracted compound and enzyme features were fed into RAndom k-labELsets (RAKEL) to construct the method. SVM or RF was employed as the base classification algorithm. Such method provided good performance and was superior to the previous method that adopted compound and enzyme features obtained by directly applying Mashup to the heterogeneous network. 
 
 
-![Image text](https://github.com/HaoWang-china/PMPTCE_HNEA/blob/master/p/photo.png)
+![Image text](https://github.com/HaoWang-china/PMPTCE_HNEA/blob/master/flowChart.png)
 
 
 To run this program, you need to install the MATLAB environment, and the MATLAB version needs to support the c language editor. Install the c language editor on your MATLAB, and then run it according to the instructions of the code.
