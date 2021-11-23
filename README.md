@@ -1,7 +1,7 @@
 The system extracts features by constructing a heterogeneous network.First obtain the relationship data between compound and compound, compound and enzyme, enzyme and enzyme,construct their matrices separately.Then merge the matrix into a heterogeneous network through a heterogeneous method,The specific operation is shown in the figure below.Next, feature extraction is performed, and then based on the obtained metabolic path data,label each enzyme and compound, and then use a multi-label classification algorithm for analysis and processingThe system extracts features by constructing a heterogeneous network.First obtain the relationship data between compound and compound, compound and enzyme, enzyme and enzyme,construct their matrices separately.Then merge the matrix into a heterogeneous network through a heterogeneous method,The specific operation is shown in the figure below.Next, feature extraction is performed, and then based on the obtained metabolic path data,label each enzyme and compound, and then use a multi-label classification algorithm for analysis and processing.
 
 
-![Image text](https://github.com/HaoWang-china/PMPTCE_HNEA/blob/master/p/photo.png)
+![Image text](https://github.com/HaoWang-china/PMPTCE_HNEA/blob/master/flowChart.png)
 
 
 To run this program, you need to install the MATLAB environment, and the MATLAB version needs to support the c language editor.Install the c language editor on your MATLAB, and then run it according to the instructions of the code.
