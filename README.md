@@ -9,9 +9,9 @@ To run this program, you need to install the MATLAB environment, and the MATLAB 
 
 After getting the tagged data, run it with Meka, you can run the following command directly in the cmd window to obtain the result (under the C drive).
 
-SMO order：
+SVM as base classification algorithm:
 java -cp "./lib/*" meka.classifiers.multilabel.RAkEL -M 10 -k 10 -P 0 -N 0 -S 0 -verbosity 5 -t aVSDxiangliangdata_0.3_300.arff -x 10 -W weka.classifiers.functions.SMO -- -C 2.0 -L 0.001 -P 1.0E-12 -N 0 -V -1 -W 1 -K "weka.classifiers.functions.supportVector.PolyKernel -E 1.0 -C 250007" -calibrator "weka.classifiers.functions.Logistic -R 1.0E-8 -M -1 -num-decimal-places 4"> C:\SMO_result.txt
 
 
-RF order：
+RF as base classification algorithm：
 java -cp "./lib/*" meka.classifiers.multilabel.RAkEL -M 10 -k 11 -P 0 -N 0 -S 0 -verbosity 5 -t aVSDxiangliangdata_0.3_300.arff  -x 10 -W weka.classifiers.trees.RandomForest -- -P 100 -I 80 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1 > C:\RandomForest.txt
